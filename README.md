@@ -1,4 +1,6 @@
 # Commit Brickbreaker
+<img width="1353" height="777" alt="image" src="https://github.com/user-attachments/assets/09ab5afd-a7f5-4752-a902-24d453fe3920" />
+
 
 GitHub heatmap but make it arcade: shoot to paint/erase tiles until the secret word matches.  
 Made with plain HTML/CSS/JS + Canvas, pixel-style rendering, combos, and a few goofy power-ups.
